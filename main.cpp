@@ -76,7 +76,6 @@ void minimunCostCalc(float* widthRiverBank,float* distance, float* earthCost, fl
 
 }
 
-
 void enterInput()
 {
     cout << "\nPress Enter to Continue";
